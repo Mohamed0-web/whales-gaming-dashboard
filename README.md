@@ -43,7 +43,8 @@ _Captures d’écran à venir dans le dossier `/images`._
 
 - `/documentation/` : Présentation complète en PDF
 - `/images/` : Visuels du tableau de bord (à ajouter)
-- `/data/` : Données simulées anonymisées (optionnel)
+
+<img width="1120" alt="Capture d’écran 2025-07-05 à 16 50 52" src="https://github.com/user-attachments/assets/2ed278ea-bb5b-4798-b97e-d82e036b0b7f" />
 
 ## 👥 Équipe du projet
 
