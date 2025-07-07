@@ -2,18 +2,18 @@
 
 Projet réalisé dans le cadre du cours **GIS 812 – Analytique et science des données**, Université de Sherbrooke.
 
-## 🎯 Objectif
+## Objectif : 
 
 Comprendre les comportements des joueurs d’un jeu mobile afin d’optimiser les stratégies d’engagement et de monétisation. Le projet inclut une **segmentation par clustering** des profils de joueurs ainsi qu’un **tableau de bord Power BI** pour la visualisation des segments.
 
-## 🧰 Outils et technologies
+## Outils et technologies : 
 
 - Power BI (visualisation)
 - Analyse exploratoire (Boxplots, clustering)
 - Segmentation (algorithmes de regroupement)
 - Présentation finale (format PDF)
 
-## 📊 Description du projet
+## Description du projet : 
 
 - 5 groupes de joueurs identifiés :
   - Nouveaux joueurs (peu actifs, peu dépensiers)
@@ -30,7 +30,7 @@ Comprendre les comportements des joueurs d’un jeu mobile afin d’optimiser le
   - Suivi des KPI de dépenses et d’engagement
   - Analyse saisonnière des revenus
 
-## 💡 Recommandations issues de l’analyse
+## Recommandations issues de l’analyse : 
 
 - Boutique dynamique avec offres limitées
 - Pass saisonniers & abonnements VIP
@@ -38,18 +38,18 @@ Comprendre les comportements des joueurs d’un jeu mobile afin d’optimiser le
 - Cosmétiques et objets de collection avec rareté
 - Création d’un marché d’échange entre joueurs
 
-## 📷 Aperçu
+## Aperçu :
 
 _Captures d’écran à venir dans le dossier `/images`._
 
-## 📁 Fichiers disponibles
+## Fichiers disponibles :
 
 - `/documentation/` : Présentation complète en PDF
 - `/images/` : Visuels du tableau de bord (à ajouter)
 
 <img width="1120" alt="Capture d’écran 2025-07-05 à 16 50 52" src="https://github.com/user-attachments/assets/2ed278ea-bb5b-4798-b97e-d82e036b0b7f" />
 
-## 👥 Équipe du projet
+## Équipe du projet : 
 
 - Mohamed Bergui
 - Akram Boucenina
