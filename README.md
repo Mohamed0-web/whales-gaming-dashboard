@@ -21,6 +21,9 @@ Comprendre les comportements des joueurs d’un jeu mobile afin d’optimiser le
   - Mid-Game (explorateurs, peu dépensiers)
   - Whales (Late Game, très gros dépensiers)
   - Hoarders (niveau max, peu actifs mais riches)
+ 
+  <img width="1277" alt="image" src="https://github.com/user-attachments/assets/d68aa26f-3a28-4712-b9f0-74fc33e55559" />
+
 
 - Création d’un **dashboard Power BI** permettant :
   - Visualisation des segments de joueurs
